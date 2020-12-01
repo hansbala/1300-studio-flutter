@@ -1,25 +1,14 @@
-# Hello Word
+# 1300 Flutter Studio - IP Address Info
 
-A new Flutter project created with [FlutLab](https://flutlab.io)
+This studio project uses Flutter to get some basic GeoLocation from a user's IP Address:
 
-### Getting Started: FlutLab - Flutter Online IDE
+It displays things like:
+* IPv4 Address
+* City Name
+* Country Name
+* Latitude
+* Longitude
 
-- Watch Mini crash course "How to use Flutter Widgets” on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
+All the user has to do is click the button and it displays all necessary info
 
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
-
-### Getting Started: Flutter
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+The free API of freegeoip was used in creation of this studio. The link can be accessed at [https://freegeoip.app/json/](https://freegeoip.app/json/)
